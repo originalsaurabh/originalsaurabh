@@ -1,0 +1,1 @@
+Hi,Hey, I’m someone who enjoys building things and figuring out how stuff works. I like keeping my code simple, readable, and useful. This repo is mostly a place for experiments, learning, and projects I find interesting along the way.
